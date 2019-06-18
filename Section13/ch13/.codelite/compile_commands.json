@@ -1,0 +1,5 @@
+[{
+  "file": "/Users/davidlee/Downloads/Section13/AccessingClassMembers/main.cpp",
+  "directory": "/Users/davidlee/Downloads/Section13/AccessingClassMembers",
+  "command": "g++ -c /Users/davidlee/Downloads/Section13/AccessingClassMembers/main.cpp -o /Users/davidlee/Downloads/Section13/AccessingClassMembers/main.cpp.o  -std=c++14  -Wall  -O2  -Wall -DNDEBUG -I. -I."
+ }]
