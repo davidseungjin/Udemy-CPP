@@ -18,6 +18,10 @@ int main(){
 	int i = 0;
 	while(!in_file.eof()){
 		in_file >> line >> num >> total;	
+	// instead of two lines above, while(in_file >> line >> num >> total){
+	// will work same because the statements means "while (true) { do"
+ 
+
 		
 		cout << setw(10) << left << line
 		 << setw(10) << num
