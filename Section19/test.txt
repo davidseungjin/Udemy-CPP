@@ -1,0 +1,3 @@
+this is a text file created by David Lee on 6th July 2019.
+It is a sample example when he study i/o stream, especially the header such as ifstream, ofstream, fstream.
+
